@@ -1,0 +1,2 @@
+<!-- running json server -->
+json-server --watch database.json --port 3005
